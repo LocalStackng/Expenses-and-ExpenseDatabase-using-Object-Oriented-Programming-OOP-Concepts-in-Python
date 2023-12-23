@@ -15,7 +15,7 @@ The main components of the project are comprised of two essential classes that a
 3. Use the git clone command with the initially coppied URL
 4. Click **ENTER**. This willdownload a copy of the project file to your local computer.
 <br>
-**Running the code**
+**Running the code** <br>
 To run the code, you must have a version of python installed on your computer.<br>
-In your terminal, change directory to the project directory
+In your terminal, change directory to the project directory<br>
 Run the python script using the python command with the filename.py
